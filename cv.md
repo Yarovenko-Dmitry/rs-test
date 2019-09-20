@@ -27,9 +27,9 @@ way. I am also motivated and enthusiastic.
       <h1>Navigational Links</h1>
       <nav>
         <ul>
-          <li><a href="#home">Home</a></li>
-          <li><a href="#posts">Posts</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a >Home</a></li>
+          <li><a>Posts</a></li>
+          <li><a >Contact</a></li>
         </ul>
       </nav>
     </header>
