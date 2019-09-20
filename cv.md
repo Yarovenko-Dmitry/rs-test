@@ -3,9 +3,9 @@
 
 ## 1 Contact Info ##
 
-1. Phone: +375-29-572-24-53 1
-2. e-mail: dmitrijyarovenko@yandex.ru 2
-3. Discord: Prostiak(@Prostiak2019) 3
+1. Phone: +375-29-572-24-53
+2. e-mail: dmitrijyarovenko@yandex.ru
+3. Discord: Prostiak(@Prostiak2019)
 
 ## 2 Summary ##
 
@@ -17,14 +17,14 @@ I am also motivated and enthusiastic.
 
 ## 3 Skills ##
 
-•	programming languages: JavaScript, TypeScript
-•	framework: Angular
-•	IDE: Visual Studio Code
+*	programming languages: JavaScript, TypeScript
+*	framework: Angular
+*	IDE: Visual Studio Code
 
 ## 4 Code examples (LATEST) ##
 
 ```
-<header>
+    <header>
       <h1>Navigational Links</h1>
       <nav>
         <ul>
@@ -50,4 +50,4 @@ I am also motivated and enthusiastic.
 
 ## 7 English ##
 
-English level: Pre-intermediate without speaking practice
+English level: Pre-intermediate.
