@@ -1,11 +1,14 @@
  
 # CV Yarovenko Dmitry Valer’evich #
+
 ## 1 Contact Info ##
 
-Phone: +375-29-572-24-53
-e-mail: dmitrijyarovenko@yandex.ru 
-Discord: Prostiak(@Prostiak2019)
+1. Phone: +375-29-572-24-53 1
+2. e-mail: dmitrijyarovenko@yandex.ru 2
+3. Discord: Prostiak(@Prostiak2019) 3
+
 ## 2 Summary ##
+
 I have long liked the field of programming. 
 I especially liked the experience of working with children in creating robots.
 Unfortunately, I do not have programming skills yet,
@@ -13,13 +16,14 @@ but I have experience in overcoming obstacles and various difficulties on the wa
 I am also motivated and enthusiastic.
 
 ## 3 Skills ##
-О:
+
 •	programming languages: JavaScript, TypeScript
 •	framework: Angular
 •	IDE: Visual Studio Code
 
 ## 4 Code examples (LATEST) ##
 
+```
 <header>
       <h1>Navigational Links</h1>
       <nav>
@@ -30,24 +34,19 @@ I am also motivated and enthusiastic.
         </ul>
       </nav>
     </header>
-
+```
 
 ## 5 Experience ##
--	Cours «JavaScript/Front-end» https://rs.school/js/
--	Codecademy links to source code 
 
-https://www.codecademy.com/courses/learn-html/lessons/semantic-
+-	Cours «RS JavaScript/Front-end» 
+-	Codecademy  
 
-html/exercises/review?action=resume_content_item
-
-
+[links to source code](https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/review?action=resume_content_item)
 
 ## 6 Education ##
 
-•	Belarusian National Technical University [2005-2010]
-Faculty of Transport Communications
-Specialty “handling, construction, road machines and equipment”
-•	ITVDN
+*	Belarusian National Technical University [2005-2010] 1
+*	ITVDN 2
 
 ## 7 English ##
 
