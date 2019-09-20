@@ -6,14 +6,11 @@ Phone: +375-29-572-24-53
 e-mail: dmitrijyarovenko@yandex.ru 
 Discord: Prostiak(@Prostiak2019)
 ## 2 Summary ##
-I have long liked the field of programming. I especially liked the 
-
-experience of working with children in creating robots.
-Unfortunately, I do not have programming skills yet, but I have 
-
-experience in overcoming obstacles and various difficulties on the 
-
-way. I am also motivated and enthusiastic.
+I have long liked the field of programming. 
+I especially liked the experience of working with children in creating robots.
+Unfortunately, I do not have programming skills yet,
+but I have experience in overcoming obstacles and various difficulties on the way.
+I am also motivated and enthusiastic.
 
 ## 3 Skills ##
 О:
