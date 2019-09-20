@@ -41,12 +41,12 @@ I am also motivated and enthusiastic.
 -	Cours «RS JavaScript/Front-end» 
 -	Codecademy  
 
-[links to source code](https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/review?action=resume_content_item)
+[link to source code](https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/review?action=resume_content_item)
 
 ## 6 Education ##
 
-*	Belarusian National Technical University [2005-2010] 1
-*	ITVDN 2
+*	Belarusian National Technical University [2005-2010] 
+*	ITVDN
 
 ## 7 English ##
 
