@@ -1,12 +1,57 @@
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+ 
+# CV Yarovenko Dmitry Valer’evich #
+## 1 Contact Info ##
+
+Phone: +375-29-572-24-53
+e-mail: dmitrijyarovenko@yandex.ru 
+Discord: Prostiak(@Prostiak2019)
+## 2 Summary ##
+I have long liked the field of programming. I especially liked the 
+
+experience of working with children in creating robots.
+Unfortunately, I do not have programming skills yet, but I have 
+
+experience in overcoming obstacles and various difficulties on the 
+
+way. I am also motivated and enthusiastic.
+
+## 3 Skills ##
+О:
+•	programming languages: JavaScript, TypeScript
+•	framework: Angular
+•	IDE: Visual Studio Code
+
+## 4 Code examples (LATEST) ##
+
+<header>
+      <h1>Navigational Links</h1>
+      <nav>
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#posts">Posts</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+
+## 5 Experience ##
+-	Cours «JavaScript/Front-end» https://rs.school/js/
+-	Codecademy links to source code 
+
+https://www.codecademy.com/courses/learn-html/lessons/semantic-
+
+html/exercises/review?action=resume_content_item
+
+
+
+## 6 Education ##
+
+•	Belarusian National Technical University [2005-2010]
+Faculty of Transport Communications
+Specialty “handling, construction, road machines and equipment”
+•	ITVDN
+
+## 7 English ##
+
+English level: Pre-intermediate without speaking practice
