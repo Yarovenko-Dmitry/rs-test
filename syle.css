@@ -1,4 +1,25 @@
-.style-test-1 {
-    color: aqua;
-    
-}
+.content-main {
+    padding-left: 300px;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: rgb(199, 248, 224);
+  }
+  
+  .content-main .content-other{
+    font-size: 14pt;
+  }
+  
+  h1 {
+    /* align="center"; */
+    padding-left: 250px;
+  }
+  
+  img {
+    padding-left: 150px;
+  }
+  
+  figcaption {
+    padding-left: 250px;
+    text-transform: uppercase;
+  }
+  
