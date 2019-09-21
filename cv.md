@@ -39,9 +39,7 @@ I am also motivated and enthusiastic.
 ## 5 Experience ##
 
 -	Cours «RS JavaScript/Front-end» 
--	Codecademy  
-
-[link to source code](https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/review?action=resume_content_item)
+-	Codecademy [link to source code](https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/review?action=resume_content_item)
 
 ## 6 Education ##
 
